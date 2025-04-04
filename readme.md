@@ -76,8 +76,7 @@ my-todo-app/
 
 ## 📸 Screenshots
 
-![my-todo-app interface](https://drive.google.com/file/d/1GqnKbzOnETL1nl0gk5awruuMHaPoriO7/view?usp=sharing)
-
+![Homepage Screenshot](./screenshots/homepage.png)
 ----------
 
 ## 🧑‍💻 Getting Started
